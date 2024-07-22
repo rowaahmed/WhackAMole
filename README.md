@@ -1,4 +1,5 @@
 ## Whack-A-Mole Arduino Game
+![Good Copy - APSC 160 Lab 8 Template - Whack a Mole](https://github.com/user-attachments/assets/2a91775c-1af3-4aee-90a5-5e907042fd70)
 
 This project is a single-player "Whack-A-Mole" game implemented using an Arduino. The game features four colored LEDs and four pushbuttons, with a serial monitor to display the current score and other game information. The game consists of consecutive rounds, where the player must press the button corresponding to the LED that lights up.
 
