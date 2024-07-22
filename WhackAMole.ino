@@ -1,8 +1,5 @@
 /* Name: Rowa Ahmed           
- * Student Number: 30761746
- * CWL & UBC email: rahmed14@student.ubc.ca
- * Lab Section: L1S    
- * Assignment:      Lab 8 - Whack a Mole      */      
+ * Name:      Lab 8 - Whack a Mole      */      
 
 // Define game parameters (Modify the numbers only)
 #define NUM_PROMPTS      5    // modifies the amount of prompts per round
