@@ -1,4 +1,5 @@
-/* Name: Rowa Ahmed           
+/* Name: Rowa Ahmed  
+ * Date: December 7, 2023
  * Name:      Lab 8 - Whack a Mole      */      
 
 // Define game parameters (Modify the numbers only)
